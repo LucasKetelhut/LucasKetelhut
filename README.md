@@ -1,4 +1,5 @@
-## <h1>Seja bem-vindo(a)! Meu nome é Lucas :)</h1>
+<h1>Seja bem-vindo(a)! Meu nome é Lucas :)</h1> 
+
 <div>
   <a href="https://github.com/LucasKetelhut">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasketelhut&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,6 +18,9 @@
 </div>
   
   ##
+  
+  
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
 <div> 
   <a href="https://www.linkedin.com/in/LucasKetelhut" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
