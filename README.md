@@ -1,4 +1,4 @@
-<h1>Seja bem-vindo(a)! Meu nome é Lucas :)</h1> 
+<h1>Welcome! I'm Lucas :)</h1> 
 
 <div>
   <a href="https://github.com/LucasKetelhut">
